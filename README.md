@@ -1,6 +1,3 @@
-# Belajar_DevOps_WebServices
-Praktikum Cloud Computing
-
 # REST API - Praktikum DevOps & Web Services
 
 Project RESTf API sederhana berbasis PHP Native (MySQLi) dan MySQL menggunakan Laragon untuk memenuhi tugas praktikum DevOps dan Web Services.
