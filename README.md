@@ -39,8 +39,8 @@ CREATE TABLE tbl_karyawan (
     jenis_kelamin ENUM('Laki-laki', 'Perempuan') DEFAULT NULL,
     handphone VARCHAR(15) DEFAULT NULL,
     alamat VARCHAR(100) DEFAULT NULL,
-    PRIMARY KEY (id)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+    PRIMARY KEY ('id')
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8;
 ```
 
 **Catatan:** Pastikan konfigurasi database pada `connection.php` sesuai dengan pengaturan MySQL di Laragon.
