@@ -1,2 +1,2 @@
-# Belajar_Devops_WebServices
+# Belajar_DevOps_WebServices
 Praktikum Cloud Computing
