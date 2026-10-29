@@ -1,6 +1,6 @@
 # REST API - Praktikum DevOps & Web Services
 
-Project RESTf API sederhana berbasis PHP Native (MySQLi) dan MySQL menggunakan Laragon untuk memenuhi tugas praktikum DevOps dan Web Services.
+Project REST API sederhana berbasis PHP Native (MySQLi) dan MySQL menggunakan Laragon untuk memenuhi tugas praktikum DevOps dan Web Services.
 
 ## Struktur Project
 
