@@ -33,12 +33,12 @@ C:\laragon\www\restapi-NIM\
 3. Jalankan query SQL berikut untuk membuat tabel `tbl_karyawan`.
 
 ```sql
-CREATE TABLE tbl_karyawan (
-    id INT(11) NOT NULL AUTO_INCREMENT,
-    nama VARCHAR(50) DEFAULT NULL,
-    jenis_kelamin ENUM('Laki-laki', 'Perempuan') DEFAULT NULL,
-    handphone VARCHAR(15) DEFAULT NULL,
-    alamat VARCHAR(100) DEFAULT NULL,
+CREATE TABLE 'tbl_karyawan' (
+    'id' INT(11) NOT NULL AUTO_INCREMENT,
+    'nama' VARCHAR(50) DEFAULT NULL,
+    'jenis_kelamin' ENUM('Laki-laki', 'Perempuan') DEFAULT NULL,
+    'handphone' VARCHAR(15) DEFAULT NULL,
+    'alamat' VARCHAR(100) DEFAULT NULL,
     PRIMARY KEY ('id')
 ) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8;
 ```
